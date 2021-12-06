@@ -1,0 +1,5 @@
+Kadane's Algo
+Floyd's Cycle Detection Algo
+KMP Algo
+Quick Select Algo
+Boyer-More Majority Vote Algo

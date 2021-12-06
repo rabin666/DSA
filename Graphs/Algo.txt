@@ -1,0 +1,7 @@
+Kruskal's Algo
+Dijkstra's Algo
+Bellman Ford Algo
+Floyd Warshall Algo
+Topological Sort Algo
+Flood Fill Algo
+Lee Algo

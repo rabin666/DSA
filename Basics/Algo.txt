@@ -1,0 +1,3 @@
+Huffman Coding Compression Algo
+Euclid Algo
+Union Find Algo
